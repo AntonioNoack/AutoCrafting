@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoCrafting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoCrafting_jar</output-path>
+    <root id="archive" name="AutoCrafting.jar">
+      <element id="module-output" name="AutoCrafting" />
+    </root>
+  </artifact>
+</component>

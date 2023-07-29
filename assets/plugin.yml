@@ -1,0 +1,6 @@
+name: AutoCrafting
+main: me.anno.autocrafting.AutoCrafting
+author: Antonio Noack
+description: Adds a setup for automatic crafting.
+version: 1.0.1
+api-version: 1.13
